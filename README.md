@@ -1,6 +1,6 @@
 # The talking data
 
-This repo contains some work done on data pulled around from various places with the pure and only goal of having fun and learning some stuff. 
+This repo contains some work done on data pulled around from various places with the pure and only goal of having fun, learning some new stuff and watching what data can tell us.
 
 ## Quantifying natural languages
 
