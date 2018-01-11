@@ -41,7 +41,7 @@ def config_ipython():
 
 
 
-def setup_matplotlib(matplotlib_file_path=MATPLOTLIB_FILE):
+def setup_matplotlib(matplotlib_file_path=MATPLOTLIB_FILE, use_ggplot=True):
     """
     Setup all the stylistic params of matplotlib.
     Pass the file path to the Matplotlib rcParams file.
@@ -50,7 +50,8 @@ def setup_matplotlib(matplotlib_file_path=MATPLOTLIB_FILE):
     global_path = find_global_path()
 
     # Set ggplot style
-    plt.style.use('ggplot')
+    if use_ggplot:
+        plt.style.use('ggplot')
 
     # Overwrite rcParams with the custom style file
     params = json.load(open(global_path + matplotlib_file_path, 'r'))

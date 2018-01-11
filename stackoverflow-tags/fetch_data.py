@@ -34,7 +34,7 @@ def fetch_and_organise_SO_tags_data(filename, count_printing=50):
     # Request tags endpoint: standard sorting is by popularity
     # Setting to the max of results per page allowed (100) and request 2 pages
     so.page_size = 100
-    so.max_pages = 10
+    so.max_pages = 50
     r = so.fetch('tags')
 
     # Start the data dict with the retrieved data
@@ -63,11 +63,11 @@ def fetch_and_organise_SO_tags_data(filename, count_printing=50):
 
     # Query for the synonyms of each tag
     tags_syns_items = []
-    for count in range(0, len(tags_data) - 5 + 1, 5):
+    for count in range(0, len(tags_data) - 20 + 1, 20):
         print('synonyms', count, 'of', len(tags_data))
         tags_syns_items += so.fetch(
             'tags/{tags}/synonyms',
-            tags=list(tags_data.keys())[count:count+5])['items']
+            tags=list(tags_data.keys())[count:count + 20])['items']
 
     for item in tags_syns_items:
         tags_data[item['to_tag']]['synonyms'].append(item['from_tag'])
@@ -86,3 +86,5 @@ if __name__ == "__main__":
     fetch_and_organise_SO_tags_data(data_folder + 'tags_data.json')
 
 
+# # Request questions, from old to newer
+# questions_r = so.fetch('questions', order='asc', sort='creation')
