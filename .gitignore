@@ -1,4 +1,5 @@
 trumpeter/
+*/.ipynb_checkpoints/
 
 *.json
 *.pyc

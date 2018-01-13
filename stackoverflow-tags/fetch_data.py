@@ -34,7 +34,7 @@ def fetch_and_organise_SO_tags_data(filename, count_printing=50):
     # Request tags endpoint: standard sorting is by popularity
     # Setting to the max of results per page allowed (100) and request 2 pages
     so.page_size = 100
-    so.max_pages = 50
+    so.max_pages = 1
     r = so.fetch('tags')
 
     # Start the data dict with the retrieved data
@@ -83,7 +83,7 @@ def fetch_and_organise_SO_tags_data(filename, count_printing=50):
 if __name__ == "__main__":
 
     # Fetch data from the SO API
-    fetch_and_organise_SO_tags_data(data_folder + 'tags_data.json')
+    fetch_and_organise_SO_tags_data(data_folder + 'tags_data_12Jan.json')
 
 
 # # Request questions, from old to newer

@@ -5,3 +5,7 @@ This repo contains some work done on data pulled around from various places with
 ## Quantifying natural languages
 
 Can we measure natural language, can we quantify it? Can we also compare different natural languages, say English and Spanish?
+
+## Stack Overflow tags
+
+If we fetch some data about question tags on Stack Overflow, what patterns do we see?
