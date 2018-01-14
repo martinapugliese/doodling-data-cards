@@ -83,7 +83,7 @@ def fetch_and_organise_SO_tags_data(filename, count_printing=50):
 if __name__ == "__main__":
 
     # Fetch data from the SO API
-    fetch_and_organise_SO_tags_data(data_folder + 'tags_data_12Jan.json')
+    fetch_and_organise_SO_tags_data(data_folder + 'tags_data_14Jan.json')
 
 
 # # Request questions, from old to newer
