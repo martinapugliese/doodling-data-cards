@@ -1,5 +1,8 @@
-trumpeter/
 */.ipynb_checkpoints/
 
 *.json
 *.pyc
+*.txt
+prova*
+
+trumpeter/tweets/*
