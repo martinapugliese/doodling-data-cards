@@ -9,3 +9,7 @@ Can we measure natural language, can we quantify it? Can we also compare differe
 ## Stack Overflow tags
 
 If we fetch some data about question tags on Stack Overflow, what patterns do we see?
+
+## Population and age structure in the EU
+
+Having a look at the data retrieved from Eurostat about the population totals and age structure in the European Union in the years.
