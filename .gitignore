@@ -3,3 +3,6 @@ trumpeter/
 
 *.json
 *.pyc
+* .csv
+
+!eurostat_population_structure/original_data
