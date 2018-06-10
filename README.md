@@ -14,3 +14,7 @@ If we fetch some data about question tags on Stack Overflow, what patterns do we
 
 Having a look at the data retrieved from Eurostat about the population totals and age structure in the European Union in the years.
 This has been mainly done to produce a data card, the notebook is meant for manipulating/reformatting the data.
+
+## Football
+
+Mainly for a data card, looks at the number of matches played and cards obtained by players in the Football World Cup, historically.
