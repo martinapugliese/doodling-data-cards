@@ -10,11 +10,31 @@ Can we measure natural language, can we quantify it? Can we also compare differe
 
 If we fetch some data about question tags on Stack Overflow, what patterns do we see?
 
-## Population and age structure in the EU
+## EU
+
+### Eurostat population age structure
 
 Having a look at the data retrieved from Eurostat about the population totals and age structure in the European Union in the years.
 This has been mainly done to produce a data card, the notebook is meant for manipulating/reformatting the data.
 
+### Population area
+
+Data on area (surface) and population of european countries, retrieved from Wikipedia.
+
 ## Football
 
-Mainly for a data card, looks at the number of matches played and cards obtained by players in the Football World Cup, historically.
+### World Cup
+
+Data and work about the FIFA word cups.
+
+#### Team stats
+
+Mainly for a data card, looks at the number of matches played and cards obtained by players in the Football World Cup, over all editions.
+
+#### History stats
+
+Stats in time.
+
+## Births
+
+Number of births each month in some countries, UN database data. For a data card.
