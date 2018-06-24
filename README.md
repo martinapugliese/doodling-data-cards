@@ -23,7 +23,17 @@ Data on area (surface) and population of european countries, retrieved from Wiki
 
 ## Football
 
-Mainly for a data card, looks at the number of matches played and cards obtained by players in the Football World Cup, historically.
+### World Cup
+
+Data and work about the FIFA word cups.
+
+#### Team stats
+
+Mainly for a data card, looks at the number of matches played and cards obtained by players in the Football World Cup, over all editions.
+
+#### History stats
+
+Stats in time.
 
 ## Births
 
