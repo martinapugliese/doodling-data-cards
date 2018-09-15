@@ -21,6 +21,10 @@ This has been mainly done to produce a data card, the notebook is meant for mani
 
 Data on area (surface) and population of european countries, retrieved from Wikipedia.
 
+### Employment rates by gender
+
+Only data, from Eurostat, used for a card
+
 ## Football
 
 ### World Cup
@@ -35,6 +39,14 @@ Mainly for a data card, looks at the number of matches played and cards obtained
 
 Stats in time.
 
+#### Players
+
+Data for the players who played in the 2018 Russia World Cup, about their 2017/2018 season. See details in folder.
+
 ## Births
 
 Number of births each month in some countries, UN database data. For a data card.
+
+## Literature
+
+Some data over literary texts.
