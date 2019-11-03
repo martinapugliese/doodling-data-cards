@@ -5,7 +5,8 @@ from scipy import optimize
 def fit_powlaw(x, y, start=0, x0=[1, 1]):
 
     """
-    Fit a powerlaw in log-log scale (fit the logs) with optimize.leastsq, given x and y and the (defaults to index 0) starting point for them
+    Fit a powerlaw in log-log scale (fit the logs) with optimize.leastsq,
+    given x and y and the (defaults to index 0) starting point for them
     so to exclude an initial part. Uses log in base 10.
     x0 is the starting value of the estimation params (defaults to [1, 1]).
     """
