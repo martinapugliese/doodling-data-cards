@@ -1,9 +1,17 @@
 trumpeter/
+.ipynb_checkpoints/
 */.ipynb_checkpoints/
+*/*/.ipynb_checkpoints/
+*/*/*/.ipynb_checkpoints/
+*/*/*/*/.ipynb_checkpoints/
 
 *.json
 *.pyc
 *.csv
 *.txt
+*.html
+
+sport/jamie-running.ipynb
+food/
 
 !eurostat_population_structure/original_data
