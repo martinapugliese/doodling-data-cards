@@ -1,6 +1,6 @@
-# The talking data
+# Doodling Data Cards
 
-This repo contains some work done on data pulled around from various places with the pure and only goal of having fun, learning some new stuff and watching what data can tell us.
+Repo supporting the Doodling Data Cards project ([twitter](https://twitter.com/DoodleDatCard), [Instagram](https://www.instagram.com/doodledatcard/)), code and data used for the cards here. Also contains some work that has not gone into cards (yet?) but is discussed here and there (blog posts usually). 
 
 ## Quantifying natural languages
 
