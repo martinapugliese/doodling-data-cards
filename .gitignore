@@ -12,6 +12,5 @@ trumpeter/
 *.html
 
 sport/jamie-running.ipynb
-food/
 
 !eurostat_population_structure/original_data

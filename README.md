@@ -1,6 +1,6 @@
 # Doodling Data Cards
 
-Repo supporting the Doodling Data Cards project ([twitter](https://twitter.com/DoodleDatCard), [Instagram](https://www.instagram.com/doodledatcard/)), code and data used for the cards here. Also contains some work that has not gone into cards (yet?) but is discussed here and there (blog posts usually). 
+Repo supporting the Doodling Data Cards project ([twitter](https://twitter.com/DoodleDatCard), [Instagram](https://www.instagram.com/doodledatcard/)), code and data used for the cards here. Also contains some work that has not gone into cards (yet?) but is discussed here and there (blog posts usually).
 
 ## Quantifying natural languages
 
@@ -70,3 +70,19 @@ Number of posts per city, with city name in different languages, to proxy how vi
 Also, sometimes there is hashtag like #london:<uk-flag>, these have also taken, see the file. Sure there will be other possibilities but weren't considered. ALso note hashtags are not case-sensitive. Also note that posts can be tagged with multiple hashtags so there is the possibility that counts are duplicated
 
 All data is manually taken, was too much of a pain to do via APIs & stuff for such a small thing. Obvs we know that there'll be loads of spurious posts not depicting the city and tagged with hashtag, that's why this is rough.
+
+## Society
+
+### Racism
+
+Police response at the 2020 protests after George Floyd's death.
+
+### Autocracy & democracy
+Data from HumanProgress regarding an index of democracy of countries in time.
+
+## Food & Drinks
+
+Data regarding food & drinks.
+
+### Cocktails
+Data manually taken from the IBA cocktails for ingredients and composition.
