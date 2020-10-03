@@ -78,7 +78,11 @@ All data is manually taken, was too much of a pain to do via APIs & stuff for su
 Police response at the 2020 protests after George Floyd's death.
 
 ### Autocracy & democracy
+
 Data from HumanProgress regarding an index of democracy of countries in time.
+
+### Human Progress
+Data collected as part of the reading of S. Pinker's book "Enlightenment now".
 
 ## Food & Drinks
 
