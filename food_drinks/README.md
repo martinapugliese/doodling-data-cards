@@ -1,7 +1,5 @@
 # Food
 
-Reports nutritional facts over several foods. Amounts are per 100 g of raw food.
-
 # cocktails
 
 Data from the IBA (International Bartender's Association), data taken by hand, circa 2018.
