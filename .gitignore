@@ -10,7 +10,11 @@ trumpeter/
 *.csv
 *.txt
 *.html
+*.xlsx
 
 sport/jamie-running.ipynb
 
 !eurostat_population_structure/original_data
+
+WDPA_WDOECM_wdpa_csv/
+unesco*
