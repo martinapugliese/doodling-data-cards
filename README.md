@@ -53,7 +53,7 @@ Some data over literary texts.
 ## Nature
 Data about nature.
 * animals - contains the list of mammals by population, from Wikipedia
-
+* virus - data about the [ICTV virus classification/taxonomy](https://talk.ictvonline.org/taxonomy/) with notebook analysis of families and species
 
 -----
 
@@ -108,10 +108,6 @@ Data for the players who played in the 2018 Russia World Cup, about their 2017/2
 ## Stack Overflow tags
 
 If we fetch some data about question tags on Stack Overflow, what patterns do we see?
-
-
-
-
 
 
 
