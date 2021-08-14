@@ -11,8 +11,10 @@ trumpeter/
 *.txt
 *.html
 *.xlsx
+*.gz
 
 sport/jamie-running.ipynb
+nature/plants/backbone-current
 
 !eurostat_population_structure/original_data
 
