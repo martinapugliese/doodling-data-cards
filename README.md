@@ -43,16 +43,21 @@ Can we measure natural language, can we quantify it? Can we also compare differe
 
 -----
 
-## Literature
+## Culture
 
+### Literature
 Some data over literary texts.
+
 * fleming - all of Fleming's series on Bond
+
+### TV shows
 
 -----
 
 ## Nature
 Data about nature.
 * animals - contains the list of mammals by population, from Wikipedia
+* plants - plant taxonomy datasets and exploration, from the [GBIF](https://www.gbif.org/)
 * virus - data about the [ICTV virus classification/taxonomy](https://talk.ictvonline.org/taxonomy/) with notebook analysis of families and species
 
 -----
@@ -73,13 +78,11 @@ Number of births each month in some countries, UN database data. For a data card
 Data collected as part of the reading of S. Pinker's book "Enlightenment now".
 
 ### Racism
-
 Police response at the 2020 protests after George Floyd's death.
 
 -----
 
 ## Sport
-
 Data about some sports. Whether stuff I've done or someone else or international events.
 
 ### EMF2019
