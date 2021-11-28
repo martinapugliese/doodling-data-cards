@@ -1,18 +1,20 @@
-# Data
+# Eurostat population age structure
 
-Been retrieved from Eurostat.
+Data from Eurostat. The notebook analyses the age structure of the European population.
 
-## Country codes
+## Original data
+
+### Country codes
 
 EU country codes, manually created from http://ec.europa.eu/eurostat/statistics-explained/index.php/Tutorial:Country_codes_and_protocol_order
 
-## Population totals
+### Population totals
 
 Population on 1 January, from http://ec.europa.eu/eurostat/tgm/table.do?tab=table&language=en&pcode=tps00001&tableSelection=1&footnotes=yes&labeling=labels&plugin=1
 
 Reports the total counts of people living in the EU and in its member state at the 1 January of each year, 2006 - 2017. TSV data.
 
-## Population age structure
+### Population age structure
 
 From http://ec.europa.eu/eurostat/web/products-datasets/-/tps00010
 
