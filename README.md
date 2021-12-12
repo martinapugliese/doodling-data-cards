@@ -32,7 +32,7 @@ Some linguistic analyses.
 
 -----
 
-## Nature
+## Nature
 Data about nature.
 
 -----

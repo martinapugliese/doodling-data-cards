@@ -12,6 +12,7 @@ trumpeter/
 *.html
 *.xlsx
 *.gz
+*.jpeg
 
 sport/jamie-running.ipynb
 nature/plants/backbone-current
