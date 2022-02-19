@@ -13,7 +13,7 @@ Collection of functions and routines to help with workflow in the notebooks/scri
 
 ## Culture
 
-Culture! Everything from literature, music, art.
+Culture! Everything from literature, music, art ...
 
 -----
 
