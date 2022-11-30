@@ -19,3 +19,12 @@ I've done it, it's based on the main ingredient and/or the procedure:
 * tequila: agave
 * absinthe: anice
 * liqueur: base liquor + fruit/flower/plant
+
+
+# Cuisines
+
+## New England recipes
+
+Analyses on book "Our New England Family Recipes", 1910.
+
+
