@@ -22,3 +22,4 @@ This downloads pictures for all of Renoir's paintings listed on a dedicated Wiki
 Works on music, whether classical or not.
 
 * composers works' lists - computes the most frequent key used by some specific composers, data from CSV organised from tables on the IMSLP, e.g. this [one](https://imslp.org/wiki/List_of_works_by_Carl_Philipp_Emanuel_Bach).
+* Spotify's song of the 80s - using the Spotify API to get data about tracks released in the 80s
