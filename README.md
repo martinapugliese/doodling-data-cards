@@ -1,8 +1,6 @@
-# Doodling Data Cards
+# Doodling Data - cards material
 
-Repo supporting the Doodling Data Cards project ([Instagram](https://www.instagram.com/doodledatcard/)) as well as all the work that goes into organising and analysing datasets for data stories of various sorts, normally presented on my [blog](https://martinapugliese.github.io/).
-
-The code here is mostly present in the form of Jupyter notebooks.
+Repo supporting the work to create "data cards" as part of the Doodling Data [project](https://doodlingdata.substack.com/). Mostly contains scrappy Jupyter notebooks I've used to pull and analyse data.
 
 The categorisation here into topics is of course arbitrary, and topics can overlap: it is just for ease of search.
 
