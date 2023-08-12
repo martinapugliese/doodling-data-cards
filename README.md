@@ -4,7 +4,7 @@ Repo supporting the work to create "data cards" as part of the Doodling Data [pr
 
 The categorisation here into topics is of course arbitrary, and topics can overlap: it is just for ease of search.
 
-## Common
+## Common
 Collection of functions and routines to help with workflow in the notebooks/scripts.
 
 -----
